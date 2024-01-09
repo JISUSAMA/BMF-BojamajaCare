@@ -2,7 +2,7 @@
 
 ## 프로젝트 소개
 
-<img src="https://github.com/JISUSAMA/UnityStudy/assets/38304918/3da5ce64-0774-49fb-bb65-edd512543070">
+<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/4feeabf0-0fde-4766-a336-5c74ae619f4c">
 
 ### 보자마자 피트니스 - 보자마자 케어(Bojamaja Care)
 
@@ -25,7 +25,7 @@ __Unity3D, LeapMotion, Kinect__
 ## 기여도
 <br>
 
-<img src="https://github.com/JISUSAMA/UnityStudy/assets/38304918/8ad17a09-6c01-4550-85d5-7f9837caf53b">
+<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/ca318894-26b7-4a3b-9738-a00d99e7d5a5">
 <br>
 <br>
 
